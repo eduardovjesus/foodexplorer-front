@@ -1,6 +1,9 @@
 # FOOD EXPLORER
 Food Explorer é uma aplicação desenvolvida em React.js e outras tecnologias, que permite aos clientes de restaurantes navegar e fazer pedidos de alimentos de forma simples e eficiente. O design da aplicação é baseado no Figma, garantindo uma experiência agradável e intuitiva aos usuários.
 
+BackEnd: https://github.com/eduardovjesus/foodexplorer-back
+Deploy: https://celadon-gumption-aa24aa.netlify.app/
+
 ## 📘 Ferramentas/Bibliotecas utilizadas
 - React
 - React Router DOM
