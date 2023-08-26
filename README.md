@@ -20,7 +20,7 @@ ___
 ### 💻 Executando o FrontEnd
 ```bash
 # Navegue até o diretório do FrontEnd
-$ cd ./FOOD-EXPLORER-MAIN
+$ cd ./foodexplorer-front
 
 # Instale as dependências necessárias
 $ npm install
